@@ -126,7 +126,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Aution.sol": "allowanceContract"
+			"Auction.sol": "allowanceContract"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -140,7 +140,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"Aution.sol": {
+		"Auction.sol": {
 			"keccak256": "0x1eb2c6571eb3a6e2026727f77589cb06c6f320f6a4559895663371dd521174dc",
 			"license": "MIT",
 			"urls": [
